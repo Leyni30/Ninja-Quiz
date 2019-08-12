@@ -26,38 +26,7 @@ form.addEventListener('submit', e => {
 
 
 
-// js exercises, array methods
 
-// filter
-// const numbers = [ 10, 30, 20, 40, 50];
-
-// const filtered = numbers.filter(num => {
-//   return num > 20;
-// });
-
-// const usersFiltered = urers.filter(user => {
-//   return user.premium; 
-// });
-
-// map
-// const saleProducts = products.map((product) => {
-// if(product.price > 20){
-//   return {name: product.name, price: product.price / 2};
-// }else{
-//   return product;
-// }
-// });
-
-// reduce 
-
-// const marioTotal = scores.reduce((acc, curr) => {
-//   if(curr.name = mario){
-//     acc += curr.score;
-//   }
-//   return acc
-// }, 0);
-
-// console.log(marioTotal);
 
 
 
